@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Adebola!
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data. I transform complex datasets into actionable insights that drive strategic decisions.
+Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data. I transform complex datasets into actionable insights that drive strategic business decisions.
 
 ## 📝 About Me
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data
 - 🔭 I’m working on: Gender Inequality Report, Exploratory dashboard for mavin rails
 - 💬 Ask me about: Data Visualizations, Data Modelling
 - 📫 How to reach me: adebolabamiduro@gmail.com
-- ⚡ Fun fact: I love to travel
+- ⚡ Fun fact: I love to travel, get money, try new food, stay at home, watch movies, watch sports
 
 ## 🗂️ Table of Contents
 
