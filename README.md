@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data
 
 Here are some of the projects I've been working on:
 
-### [Gender Inequality Report](file:///C:/Users/adebb/Downloads/Gender%20Inequality%20Report%202024.pdf)
+### [Gender Inequality Report]
 _A brief description of what this project does and the technology stack used._
 
 ### [Project 2 Name](Link to project)
