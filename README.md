@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data
 ## 📝 About Me
 
 - 🌱 I’m currently learning: Advanced DAX, Unpacking JSON file, Postman
-- 🔭 I’m working on: Gender Inequality Report, Exploratory dashboard for mavin rails
+- 🔭 I’ve worked on various projects
 - 💬 Ask me about: Data Visualizations, Data Modelling
 - 📫 How to reach me: adebolabamiduro@gmail.com
-- ⚡ Fun fact: I love to travel, get money, try new food, stay at home, watch movies, watch sports
+- ⚡ Fun fact: I love to travel, spend time with my family, try new food, stay at home, watch movies, watch sports
 
 ## 🗂️ Table of Contents
 
